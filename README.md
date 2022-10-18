@@ -1,4 +1,4 @@
-# Project 4: L-systems
+# Project 3: L-systems
 
 In this project I have used L-System nodes in Houdini to generate snowflakes and ice palace, inspired from Disney Frozen's Elsa's ice palace. This is my first project in Houdini.
 
