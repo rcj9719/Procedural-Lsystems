@@ -80,4 +80,4 @@ All of it is parametrized and animated to grow with time variable.
 
 |Reference|Houdini Render|
 |---|---|
-|![](frozen_lsystem.jpg)|![](frozen_palace.png)|
+|![](houdini/frozen_lsystem.jpg)|![](houdini/frozen_palace.png)|
