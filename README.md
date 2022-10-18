@@ -33,7 +33,7 @@ In this project I have used 2D L-systems to generate snowflakes [using this tuto
 First, I took a segment of a circle and mapped a 2D L-system on it. Using remeshing and color attribute, I procedurally created an L-System mesh to look like an icy, jittered, flat snowflake. Then I mirrored it around with rotation transformation to generate the entire snowflake.
 Then I randomized certain parameters liek number of generations and angles to generate random snowflakes.
 
-|Snowflakes| Variation|
+|Varying over time|Varying across instances|
 |---|---|
 |![](houdini/snowflake.gif)|![](houdini/snowflakes_variation.png)|
 
@@ -78,6 +78,6 @@ All of it is parametrized and animated to grow with time variable.
 
 ## Final scene
 
-|Reference|Houdini Render|
+|Inspiration/Reference|Houdini Render|
 |---|---|
 |![](houdini/frozen_lsystem.jpg)|![](houdini/frozen_palace.png)|
