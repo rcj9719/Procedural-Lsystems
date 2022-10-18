@@ -83,7 +83,7 @@ Some other L-systems from the scene can be seen below:
 
 |Roof|Walls|Tip|
 |---|---|---|
-|![](houdini/snow_roof.png)|![](icewall.gif)|![](snow_tip.gif)|
+|![](houdini/snow_roof.PNG)|![](houdini/icewall.gif)|![](houdini/snow_tip.gif)|
 
 
 ## Final scene
