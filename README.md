@@ -76,6 +76,16 @@ Rule 10: S=F[;;&"H][;;^"H][&H][^H]H[&H][^H]H[&F][^F]
 
 All of it is parametrized and animated to grow with time variable.
 
+
+## More L-systems in the scene
+
+Some other L-systems from the scene can be seen below:
+
+|Roof|Walls|Tip|
+|---|---|---|
+|![](houdini/snow_roof.png)|![](icewall.gif)|![](snow_tip.gif)|
+
+
 ## Final scene
 
 |Inspiration/Reference|Houdini Render|
